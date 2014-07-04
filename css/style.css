@@ -4,6 +4,7 @@ body {
 
 header {
     background-color: #2980b9;
+    
     text-align: center;
     padding: 30px;
 }
@@ -20,6 +21,19 @@ header img {
     border: 3px solid #fff;
 }
 
+header .menu {
+    padding: 10px;
+}
+
+header a {
+    color: #fff;
+}
+
+header a:hover {
+    text-decoration: none;
+    color: #f1f1f1;
+}
+
 .about {
     background-color: #ecf0f1;
     padding: 25px;
@@ -29,6 +43,14 @@ header img {
     font-size: 15px;
     line-height: 28px;
     text-align: justify;
+}
+
+.meta {
+  color: #777;
+}
+
+.post-list {
+  padding-bottom: 5px;
 }
 
 .social-links {
