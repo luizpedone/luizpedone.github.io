@@ -4,7 +4,7 @@ author: Luiz Felipe Pedone
 ---
 <h1 class="text-center">{{ page.title }}</h1>
 <div class="meta text-center">
-    {{ site.time | date_to_string }}
+    {{ page.time | date_to_string }}
     {% if page.author %} 
         • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}
     {% endif %}
