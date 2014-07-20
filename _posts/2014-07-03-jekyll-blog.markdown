@@ -2,6 +2,8 @@
 layout: post
 title:  "Jekyll blog"
 date:   2014-07-03 20:28:00
+description: "I've setup my Jekyll blog on Github pages. Check out my repository!"
+
 ---
 
 After a while thinking about migrating my blog to [Jekyll](http://jekyllrb.com/), I finally made it.
