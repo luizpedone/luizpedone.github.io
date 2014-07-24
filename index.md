@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! My name is Luiz Felipe Pedone. I'm a web developer at <a href="http://www.meliuz.com.br/" title="Cupom de Desconto - Meliuz">Meliuz</a>, living in [Belo Horizonte](http://en.wikipedia.org/wiki/Belo_Horizonte), Brazil.
+Hi! My name is Luiz Felipe Pedone. I'm a web developer at <a href="http://www.meliuz.com.br/">Meliuz</a>, living in [Belo Horizonte](http://en.wikipedia.org/wiki/Belo_Horizonte), Brazil.
 
 I started coding in 2010. Since then, I've been using PHP for most of the time, but I've spent some time coding in Java, Python and Ruby as well.
 
