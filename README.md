@@ -1,3 +1,1 @@
-Hey!
-
-[check it out](http://luizpedone.com)
+[Luiz Pedone website](http://luizpedone.com).
