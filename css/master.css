@@ -1,0 +1,30 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,600';
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ecf0f1;
+  color: #7f8c8d;
+
+}
+.container {
+  text-align: center;
+}
+h1 {
+  color: #34495e;
+  font-size: 2em;
+  font-weight: 600;
+  padding: 0px;
+  margin: 20px 20px 0px 20px;
+}
+p {
+  font-size: 0.8em;
+  padding: 0px;
+  margin: 10px;
+}
+a {
+  color: #3498db;
+}
+
+a:hover {
+  color: #2980b9;
+}
